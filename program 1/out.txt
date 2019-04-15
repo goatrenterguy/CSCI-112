@@ -1,0 +1,31 @@
+Joy and Beauty of Computing                   CSCI107 freshman MWF 1000-1050
+Programming in C                              CSCI112 sophomore MWF 0900-0950
+Joy and Beauty of Data                        CSCI127 freshman MWF 1200-1250
+Intro to Data Structures                      CSCI132 freshman TR 1100-1150
+Social and Ethical Issues in Computer Science CSCI215 sophomore TR 1300-1350
+Data Structures and Algorithms                CSCI232 sophomore MWF 1100-1150
+Discrete Structures                           CSCI246 sophomore MWF 1300-1350
+Intro to Data Mining                          CSCI301 junior MWF 0800-0850
+Programming Languages                         CSCI305 junior TR 1200-1250
+Computational Theory                          CSCI338 junior TR 1000-1050
+System Administration                         CSCI351 junior TR 1500-1550
+Robot Vision                                  CSCI442 senior MWF 1500-1550
+Artificial Intelligence                       CSCI446 senior TR 0900-0950
+Machine Learning                              CSCI447 senior MWF 1400-1450
+Compilers                                     CSCI468 senior TR 1400-1450
+--------------------
+Intro to Data Structures                      CSCI132 freshman TR 1100-1150
+Social and Ethical Issues in Computer Science CSCI215 sophomore TR 1300-1350
+Programming Languages                         CSCI305 junior TR 1200-1250
+Computational Theory                          CSCI338 junior TR 1000-1050
+System Administration                         CSCI351 junior TR 1500-1550
+Artificial Intelligence                       CSCI446 senior TR 0900-0950
+Compilers                                     CSCI468 senior TR 1400-1450
+--------------------
+Programming Languages                         CSCI305 junior TR 1200-1250
+--------------------
+Robot Vision                                  CSCI442 senior MWF 1500-1550
+Artificial Intelligence                       CSCI446 senior TR 0900-0950
+Machine Learning                              CSCI447 senior MWF 1400-1450
+Compilers                                     CSCI468 senior TR 1400-1450
+--------------------
